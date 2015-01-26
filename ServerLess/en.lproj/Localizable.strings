@@ -1,0 +1,105 @@
+/* 
+  Localizable.strings
+  ServerLess
+
+  Created by zfm on 13-7-3.
+
+*/
+/*正在检查更新*/
+"正在检查更新" = "Updating is being detected,please wait.";
+
+
+/*演示状态*/
+"演示状态" = "Select a device to CONNECT first!";
+
+/*该设备已下线*/
+"该设备已下线" = "Selected device is offline.";
+
+/* 设备选择 */
+"选择设备" = "Select device";
+
+/* 网络错误 */
+"网络错误" = "Please check network configuration!";
+
+/* 检查网络 */
+"检查网络" = "Network setting!";
+/*设备查找中*/
+"设备查找中"="Searching Devices";
+
+/*未找到设备*/
+"未找到设备"="no device find!";
+
+/*未找到设备提示*/
+"未找到设备提示"="Phone and The Luntech BOX needs to be connected to the same WIFI network.\n";
+
+/*未连接WIFI*/
+"未连接WIFI"="WIFI is not connected,please connect it!";
+
+/*未连接WIFI提示*/
+"未连接WIFI提示"="Phone and Luntech BOX needs to be connected to the same WIFI network.";
+
+
+/* 刷新按钮 */
+"刷新" = "Refresh";
+
+/* 演示模式 */
+"演示模式" = "Demo";
+
+/* 操作失败 */
+"操作失败" = "Fail";
+
+/*方向*/
+"方向"="Basic";
+
+/*数字*/
+"数字"="Number";
+
+/*鼠标*/
+"鼠标"="Mouse";
+
+/*遥控*/
+"遥控"="Remote";
+
+/*智能遥控器*/
+"智能遥控器"="Luntech BOX Remoter";
+
+/* 输入*/
+"输入"="Input";
+
+/*获取设备支持能力*/
+"获取设备支持能力"="Getting the equipment support ability";
+
+/*设备支持能力获取失败*/
+"设备支持能力获取失败"="Getting the equipment support ability failed";
+
+/*检测到WIFI未连接*/
+"检测到WIFI未连接"="WIFI is not connected,please connect it!";
+
+/* 海信集团工业设计中心 */
+"海信集团工业设计中心" = "Hisense Industrial Design Center";
+
+/* 版  本  号:  */
+"版  本  号: " = "Version: ";
+
+/* 版权所有:  */
+"版权所有: " = "Copyright: ";
+
+/* 界面设计:  */
+"界面设计: " = "UI Design: ";
+
+/* 确定 */
+"确定" = "OK";
+
+/* 取消 */
+"取消" = "Cancel";
+
+/* 操作无效 */
+"操作无效" = "Invalid";
+
+/* 正在启动协议栈..... */
+"正在启动协议栈....." = "Starting the protocol stack.....";
+
+/* 使用说明 */
+"使用帮助" = "Specification";
+
+

@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+/* 应用名称 */
+CFBundleDisplayName= "智盒多屏互动";
+/* 应用短名称 */
+CFBundleName= "智盒遥控器";

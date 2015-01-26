@@ -1,0 +1,10 @@
+upgrade me:
+1. merge library x32 and x64:
+lipo -create libigrs_x32.a libigrs_x64.a -output libigrs.a
+
+
+1.5 版本
+1. 删除设置按钮
+2. 更改默认应用名称
+3. 演示模式提示外框
+4. 编译的warning

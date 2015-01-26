@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BB9A5F5-E389-4BF2-88DB-C5952300777B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LuntechRC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>79E3EA320A500F91448B5C6BF2EFF05A67F47DEA</key>
+		<string>connect2service.dlinkddns.com:jensen/enterprise/luntechrc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LuntechRC.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>79E3EA320A500F91448B5C6BF2EFF05A67F47DEA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>connect2service.dlinkddns.com:jensen/enterprise/luntechrc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>79E3EA320A500F91448B5C6BF2EFF05A67F47DEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>79E3EA320A500F91448B5C6BF2EFF05A67F47DEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LuntechRC</string>
+		</dict>
+	</array>
+</dict>
+</plist>

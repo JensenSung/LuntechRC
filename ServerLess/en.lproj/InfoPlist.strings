@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ServerLess
+
+  Created by sjb on 13-7-3.
+
+*/
+/* 应用名称 */
+CFBundleDisplayName= "LuntechRC";
+/* 应用短名称 */
+CFBundleName= "LuntechRC";

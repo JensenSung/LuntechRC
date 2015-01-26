@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08CFEB31-6950-40B8-911C-3AB17A7915D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ServerLess</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>b5341dcf-fd69-428b-bb16-fdf79c8a4845</key>
+		<string>svn://172.16.52.77/PRJ_IOSMULTISCREEN</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RC/ServerLess.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>b5341dcf-fd69-428b-bb16-fdf79c8a4845</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>b5341dcf-fd69-428b-bb16-fdf79c8a4845</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>b5341dcf-fd69-428b-bb16-fdf79c8a4845</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PRJ_IOSMULTISCREEN</string>
+		</dict>
+	</array>
+</dict>
+</plist>
